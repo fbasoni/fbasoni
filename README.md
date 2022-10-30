@@ -21,7 +21,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 <code><img alt="jest" height="26" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"></code>
 <code><img alt="firebase" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img alt="git" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img alt="github" height="25" src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"></code>
+<code><img alt="github" height="21" src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"></code>
 <code><img alt="vsc" height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img alt="notion" height="23" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
 <code><img alt="trello" height="23" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></code>
