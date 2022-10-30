@@ -1,6 +1,6 @@
 ### Olá, hola, hello! 👋
 
-I'm Fabi, once upon a time a linguist, currently on a self taught web development journey, studying front-end web development @Laboratoria. 
+Once upon a time a linguist, I'm currently on a self taught web development journey, studying front-end web development @Laboratoria. 
 I am absolutely fascinated about human interaction through technology, and take keen interest in natural language processing. 
 
 #### Contact me:
