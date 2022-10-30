@@ -41,7 +41,7 @@ I am absolutely fascinated about human interaction through technology, and take 
   </thead>
 </table>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=tokyonight)](https://github.com/fbasoni/github-readme-stats)
+[![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=tokyonight&hide=stars,issues)](https://github.com/fbasoni/github-readme-stats)
 
 
 
