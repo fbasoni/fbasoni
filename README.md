@@ -3,7 +3,7 @@
 Once upon a time a linguist, I'm currently on a self-teaching journey studying front-end web development @Laboratoria. 
 I am absolutely fascinated about human interaction through technology, and take keen interest in natural language processing. 
 
-#### Contact me
+#### find me @
 
 <a href="https://www.linkedin.com/in/fabianybasoni/">
   <img alt="Fabiany's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -25,8 +25,6 @@ I am absolutely fascinated about human interaction through technology, and take 
 <code><img alt="trello" height="30" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></code>
 <code><img alt="figma" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=tokyonight)](https://github.com/fbasoni/github-readme-stats)
-
 ### latest projects
 <table>
   <thead align="center">
@@ -37,6 +35,8 @@ I am absolutely fascinated about human interaction through technology, and take 
     </tr>
   </thead>
 </table>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=tokyonight)](https://github.com/fbasoni/github-readme-stats)
 
 
 
