@@ -5,7 +5,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 
 **About me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
-- 🚀 Developing web apps with HTML5, CSS3, JavaScript, React and Firebase;
+- 🚀 Developing web apps with HTML5, CSS3, JavaScript, Node.js, React.js and Firebase;
 - 📖 Currently learning spanish and Python;
 - 📝 Looking to collaborate to open source through documentation translations; 
 - 🎮 Fun fact: I love playing RPGs.
