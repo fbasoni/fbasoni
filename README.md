@@ -10,7 +10,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 **About me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
 - 🚀 Developing web apps with HTML5, CSS3, JavaScript, Node.js and React;
-- 📖 Currently learning spanish (B1) and Python (basics);
+- 📖 Currently learning spanish (B1) and Python;
 - 📝 Looking to collaborate with open source through documentation translations; 
 - 🎮 Fun facts: I love playing RPGs and I'm a digital art enthusiast;
 - 📫 Reach me: <a href="https://www.linkedin.com/in/fabianybasoni/">
