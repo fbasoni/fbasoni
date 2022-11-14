@@ -12,7 +12,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 - 🚀 Developing web apps with HTML5, CSS3, JavaScript, Node.js and React;
 - 📖 Currently learning spanish (B1) and Python;
 - 📝 Looking to collaborate with open source through documentation translations; 
-- 🎮 Fun facts: MMORpg gamer and digital art enthusiast;
+- 🎮 Fun facts: RPG gamer and digital art enthusiast;
 - 📫 Reach me: <a href="https://www.linkedin.com/in/fabianybasoni/">
   <img alt="Fabiany's LinkedIn" width="22" height="15" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
