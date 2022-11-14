@@ -51,7 +51,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 
 ***
 
-[![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=onedark&hide=stars,issues)](https://github.com/fbasoni/github-readme-stats)
+[![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=onedark&hide=stars,issues&title_color=f0d6db&text_color=ffffff&bg_color=3f3f3f)](https://github.com/fbasoni/github-readme-stats)
 
 
 
