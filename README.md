@@ -1,7 +1,11 @@
 ### Olá, hola, hello! 👋
 
+
 Once upon a time a linguist, I'm currently on a self-teaching journey studying front-end web development. 
 I am absolutely fascinated about human interaction through technology, and take keen interest in natural language processing. 
+
+
+<img alt="html5" height="230" align="right" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true">
 
 **About me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
@@ -16,11 +20,13 @@ I am absolutely fascinated about human interaction through technology, and take 
 ***
 
 ### Languages and tools:
+
+
 <code><img alt="html5" height="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 <code><img alt="css3" height="28" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 <code><img alt="javascript" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="react" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="bootstrap" height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
+<code><img alt="sass" height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"></code>
 <code><img alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="jest" height="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"></code>
 <code><img alt="firebase" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
