@@ -7,7 +7,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 
 <img alt="html5" height="220" align="right" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true">
 
-**A little more about me:**
+**A bit more about me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
 - 🚀 Developing web apps with HTML, CSS, JavaScript, Node.js and React;
 - 📖 Currently learning spanish (B1) and Python;
