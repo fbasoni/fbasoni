@@ -11,7 +11,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
 - 🚀 Developing web apps with HTML5, CSS3, JavaScript, Node.js, React.js and Firebase;
 - 📖 Currently learning spanish and Python;
-- 📝 Looking to collaborate to open source through documentation translations; 
+- 📝 Looking to collaborate with open source through documentation translations; 
 - 🎮 Fun facts: I love playing RPGs and I'm a digital art enthusiast;
 - 📫 Reach me: <a href="https://www.linkedin.com/in/fabianybasoni/">
   <img alt="Fabiany's LinkedIn" width="22" height="15" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
