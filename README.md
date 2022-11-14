@@ -9,7 +9,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 
 **A little more about me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
-- 🚀 Developing web apps with HTML5, CSS3, JavaScript, Node.js and React;
+- 🚀 Developing web apps with HTML, CSS, JavaScript, Node.js and React;
 - 📖 Currently learning spanish (B1) and Python;
 - 📝 Looking to collaborate with open source through documentation translations; 
 - 🎮 Fun facts: RPG gamer and digital art enthusiast;
