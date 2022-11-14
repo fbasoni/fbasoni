@@ -1,4 +1,4 @@
-### Olá, hola, hello! 👋
+### Olá, hola, hello! <img alt="html5" height="60" align="center" src="https://giffiles.alphacoders.com/424/4244.gif"> 
 
 
 Once upon a time a linguist, I'm currently on a self-teaching journey studying front-end web development. 
@@ -7,7 +7,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 
 <img alt="html5" height="220" align="right" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true">
 
-**About me:**
+**A little more about me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
 - 🚀 Developing web apps with HTML5, CSS3, JavaScript, Node.js and React;
 - 📖 Currently learning spanish (B1) and Python;
