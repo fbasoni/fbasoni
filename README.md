@@ -4,8 +4,8 @@
 Once upon a time a linguist, I'm currently on a self-teaching journey studying front-end web development. 
 I am absolutely fascinated about human interaction through technology, and take keen interest in natural language processing. 
 
+<img alt="html5" height="190" align="right" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true">
 
-<img alt="html5" height="220" align="right" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true">
 
 **A bit more about me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
