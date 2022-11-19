@@ -26,7 +26,6 @@ I am absolutely fascinated about human interaction through technology, and take 
 <code><img alt="css3" height="28" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 <code><img alt="javascript" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="react" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="sass" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"></code>
 <code><img alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="jest" height="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"></code>
 <code><img alt="firebase" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
