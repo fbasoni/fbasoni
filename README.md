@@ -9,6 +9,7 @@ I am absolutely fascinated about human interaction through technology, and take 
 
 **A bit more about me:**
 - 👩🏻‍💻 Studying at Laboratória (bootcamp);
+- 🎓 Majored in Linguistics and Literature (UFES);
 - 🚀 Developing web apps with HTML, CSS, JavaScript, Node.js and React;
 - 📖 Currently learning spanish (B1) and Python;
 - 📝 Looking to collaborate with open source through documentation translations; 
