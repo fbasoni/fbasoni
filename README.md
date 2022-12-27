@@ -38,18 +38,6 @@ I am absolutely fascinated about human interaction through technology, and take 
 <code><img alt="figma" height="28" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 
 ***
-### Latest projects:
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><a href="https://github.com/fbasoni/burger-queen-api-client"><b>Burger Queen API Client</b></a></td>
-      <td><a href="https://github.com/fbasoni/SAP008-social-network"><b>Social Network</b></a></td>      
-      <td><a href="https://github.com/fbasoni/SAP008-data-lovers"><b>Data Lovers</b></a></td>
-    </tr>
-  </thead>
-</table>
-
-***
 
 [![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=onedark&hide=stars,issues&title_color=f0d6db&text_color=ffffff&bg_color=3f3f3f)](https://github.com/fbasoni/github-readme-stats)
 
