@@ -1,17 +1,16 @@
 ### Olá, hola, hello! <img alt="html5" height="60" align="center" src="https://giffiles.alphacoders.com/424/4244.gif"> 
 
 
-Once upon a time a linguist, I'm currently on a self-teaching journey studying front-end web development. 
-I am absolutely fascinated about human interaction through technology, and take keen interest in natural language processing. 
+I'm a front-end web developer, and a natural language processing enthusiast. 
 
 <img alt="html5" height="190" align="right" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true">
 
 
 **A bit more about me:**
-- 🚀 Developing web apps with HTML, CSS, JavaScript and React;
+- 🚀 Developing web apps with HTML/CSS/JavaScript, Node.js and React;
 - 📖 Currently learning spanish (B1) and Python;
 - 📝 Looking to collaborate with open source through documentation translations; 
-- 🎨 Fun fact: I'm a digital art enthusiast;
+- 🎨 Fun fact: I'm a digital art hobbyist;
 - 📫 Reach me: <a href="https://www.linkedin.com/in/fabianybasoni/">
   <img alt="Fabiany's LinkedIn" width="22" height="15" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
