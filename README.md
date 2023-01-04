@@ -8,7 +8,6 @@ I'm a front-end web developer, and a natural language processing enthusiast.
 
 **A bit more about me:**
 - 🚀 Developing web apps with HTML/CSS/JavaScript, Node.js and React;
-- 📖 Currently learning spanish (B1) and Python;
 - 📝 Looking to collaborate with open source through documentation translations; 
 - 🎨 Fun fact: I'm a digital art hobbyist;
 - 📫 Reach me: <a href="https://www.linkedin.com/in/fabianybasoni/">
