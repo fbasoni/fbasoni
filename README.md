@@ -7,9 +7,13 @@ I'm a fullstack developer, currently working with backend development.
 
 
 
+
+
 ## Languages and tools
 <code><img alt="java" height="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
 <code><img alt="spock" height="28" src="https://pbs.twimg.com/profile_images/1493708873336774656/bE8x0EZd_400x400.png"></code>
+<code><img alt="docker" height="28" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"></code>
+<code><img alt="kubernetes" height="28" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/kubernetes-icon.svg"></code>
 <code><img alt="azure" height="28" src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png"></code>
 <code><img alt="html5" height="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 <code><img alt="css3" height="28" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
