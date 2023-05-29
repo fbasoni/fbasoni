@@ -3,7 +3,7 @@
 
 I'm a fullstack developer, currently working with backend development.
 
-<img alt="html5" height="180" align="center" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true">
+<!--- <img alt="html5" height="180" align="center" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true"> --->
 
 
 
