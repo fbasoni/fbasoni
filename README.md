@@ -21,4 +21,4 @@ I'm a fullstack developer, currently working with backend development.
 <code><img alt="git" height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 
 
-[![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=onedark&hide=stars,issues&title_color=f0d6db&text_color=ffffff&bg_color=3f3f3f)](https://github.com/fbasoni/github-readme-stats)
+<!---  [![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=fbasoni&theme=onedark&hide=stars,issues&title_color=f0d6db&text_color=ffffff&bg_color=3f3f3f)](https://github.com/fbasoni/github-readme-stats) --->
