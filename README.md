@@ -1,5 +1,6 @@
-### Olá, hola, hello! <img alt="html5" height="60" align="center" src="https://giffiles.alphacoders.com/424/4244.gif"> 
+### Olá, hola, hello! <img alt="flower-gif" height="60" align="center" src="https://media3.giphy.com/media/MEwj0WHECB01xLsgd6/source.gif">
 
+<!---  <img alt="cat-gif" height="60" align="center" src="https://giffiles.alphacoders.com/424/4244.gif">  --->
 
 I'm a fullstack developer, currently working with backend development.
 
