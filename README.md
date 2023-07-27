@@ -12,6 +12,7 @@ I'm a fullstack developer, currently working with backend development.
 <code><img alt="react" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img alt="spock" height="28" src="https://pbs.twimg.com/profile_images/1493708873336774656/bE8x0EZd_400x400.png"></code>
 <code><img alt="jest" height="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"></code>
+<code><img alt="mysql" height="28" src="https://w7.pngwing.com/pngs/792/718/png-transparent-php-and-mysql-web-development-database-computer-icons-ruby-mammal-text-logo-thumbnail.png"></code>
 <code><img alt="sql-server" height="28" src="https://uploads-ssl.webflow.com/62d5695206896eeec18fc636/63e6a9c0ac8f176d1d339210_sql-logo.png"></code>
 <code><img alt="azure" height="28" src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png"></code>
 <code><img alt="docker" height="28" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"></code>
