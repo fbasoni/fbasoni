@@ -2,14 +2,16 @@
 
 <!---  <img alt="cat-gif" height="60" align="center" src="https://giffiles.alphacoders.com/424/4244.gif">  --->
 
-I'm a fullstack developer, currently working with backend development.
+I'm a fullstack developer, currently working with Angular and Spring Boot.
 <!--- <img alt="html5" height="180" align="center" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true"> --->
 ## Languages and tools
 <code><img alt="java" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
 <code><img alt="spring-boot" height="35" src="https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png"></code>
 <code><img alt="spock" height="28" src="https://pbs.twimg.com/profile_images/1493708873336774656/bE8x0EZd_400x400.png"></code>
 <code><img alt="javascript" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img alt="typescript" height="28" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"></code>
 <code><img alt="nodejs" height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img alt="angular" height="30" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"></code>
 <code><img alt="react" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img alt="jest" height="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"></code>
 <code><img alt="mysql" height="28" src="https://w7.pngwing.com/pngs/792/718/png-transparent-php-and-mysql-web-development-database-computer-icons-ruby-mammal-text-logo-thumbnail.png"></code>
