@@ -14,6 +14,7 @@ I'm a fullstack developer, currently working with TS + Angular and Java + Spring
 <code><img alt="angular" height="30" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"></code>
 <code><img alt="react" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img alt="jest" height="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"></code>
+<code><img alt="karma-and-jasmine" height="28" src="https://bitrise-steplib-collection.s3.amazonaws.com/steps/karma-jasmine-runner/assets/icon.svg"></code>
 <code><img alt="mysql" height="28" src="https://w7.pngwing.com/pngs/792/718/png-transparent-php-and-mysql-web-development-database-computer-icons-ruby-mammal-text-logo-thumbnail.png"></code>
 <code><img alt="sql-server" height="28" src="https://uploads-ssl.webflow.com/62d5695206896eeec18fc636/63e6a9c0ac8f176d1d339210_sql-logo.png"></code>
 <code><img alt="azure" height="28" src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png"></code>
