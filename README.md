@@ -2,7 +2,7 @@
 
 <!---  <img alt="cat-gif" height="60" align="center" src="https://giffiles.alphacoders.com/424/4244.gif">  --->
 
-I'm a fullstack developer, currently working with Angular and Spring Boot.
+I'm a fullstack developer, currently working with TS + Angular and Java + Spring Boot.
 <!--- <img alt="html5" height="180" align="center" src="https://github.com/fbasoni/fbasoni/blob/master/laptop-welcome.gif?raw=true"> --->
 ## Languages and tools
 <code><img alt="java" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
